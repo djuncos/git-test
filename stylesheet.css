@@ -1,0 +1,15 @@
+.action-body{
+
+		width: 700px;
+		margin: 0 auto;
+		margin-top: 20%;
+}
+
+.action-pic1{
+
+		height: 400px;
+		width: 400px;
+		background-repeat: no-repeat;
+		float: right;
+		position: relative;
+}
