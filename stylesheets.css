@@ -1,12 +1,31 @@
 body {
-
+	background-image: url(http://i.huffpost.com/gen/1272530/images/o-MANATEES-facebook.jpg);
 }
 
-img {
-	width: 400px;
+.pic1 {
+	margin-bottom: 15px;
+	border-radius: 10px;
+	width: 300px;
 }
+
+.pic2 {
+	margin-bottom: 15px;
+	border-radius: 10px;
+	width: 300px;
+}
+
+.pic3 {
+	margin-bottom: 15px;
+	border-radius: 10px;
+	width: 300px;
+}
+
 
 .awareness {
+	color: #76D7C4;
+	text-shadow: 6px 6px 8px black;
+	position: relative;
+	right: 25px;
 	text-align: center;
 }
 
