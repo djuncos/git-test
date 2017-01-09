@@ -32,3 +32,31 @@ body {
 .imgcolumn {
 	text-align: center;
 }
+
+.rightside {
+	text-align: center;
+}
+
+.leftside {
+	border-radius: 10px;
+	opacity: 0.7;
+	filter: alpha (opacity=50);
+	background-color: #1ABC9C;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	position: relative;
+	left: ;
+	width: 400px;
+	text-align: center;
+}
+
+p {
+	color: black;
+}
+
+
+
+
+
+
